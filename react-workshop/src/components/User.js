@@ -12,3 +12,6 @@ const User = ({ user }) => {
 }
 
 export default User
+
+// props
+// component

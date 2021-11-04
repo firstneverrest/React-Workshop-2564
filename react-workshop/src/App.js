@@ -24,3 +24,13 @@ function App() {
 }
 
 export default App;
+
+// import react is not required
+// import component
+// jsx
+// state
+// hooks - useState, useEffect
+// component life cycle
+// lists & keys
+// conditional rendering
+// styling (inline, global, module.css)
